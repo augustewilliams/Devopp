@@ -1,4 +1,4 @@
-package com.napier.devopp;
+package com.napier.sem;
 
 public class App
 {
